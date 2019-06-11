@@ -1,0 +1,6 @@
+framework module PGFramework {
+  umbrella header "PGFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

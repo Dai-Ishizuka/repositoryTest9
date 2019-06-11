@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - PGFramework (0.2.0):
+    - Alamofire
+    - AlamofireImage
+
+DEPENDENCIES:
+  - PGFramework
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - PGFramework
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  PGFramework: b0820bcb0c6d6b9f921a31cd763105c9f4726858
+
+PODFILE CHECKSUM: 3ad740fa4580f2154a406a18bb18455b3c899965
+
+COCOAPODS: 1.5.3
